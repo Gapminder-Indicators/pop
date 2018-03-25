@@ -1,6 +1,6 @@
 # pop
 This is the latest version of Gapminder's compilation of Populaiton data from multiple sources.
-See documentation here: gapm.io/dpop
+See documentation here: www.gapm.io/dpop
 
 THIS DATA IS PROVIDED UNDER CC BY LICENSE 4.0
 Which means: Please use it and spread it in any way you want, but remember to mention gwpminder.org!
